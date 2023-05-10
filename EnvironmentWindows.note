@@ -1,0 +1,12 @@
+1. on windows , install cygwin64 , any otherpackage will be install by apt-cyg 
+tools can be searched from https://cygwin.com/packages
+
+nvim should be installed 
+https://notes.carrotseverywhere.com/opalnotes/neovim.html
+
+
+2.install eclipse ide for java developers version is 4.6.3 
+eclips shoud set all encoding format in workspace throgh Preference->General->Workspace->Text file encoding
+
+3. trace tool should use 
+https://github.com/catapult-project/catapult/tree/master
